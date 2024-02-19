@@ -1,2 +1,3 @@
 # ElasticsearchKibanaMasterclass
-Master Elasticsearch and Kibana with a comprehensive course designed for data professionals.
+------
+This Master Elasticsearch and Kibana with a comprehensive course designed for data professionals.
